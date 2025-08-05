@@ -44,3 +44,6 @@ I used tools like ModelSim to simulate the waveform of the digital filter output
 
 **5. Result Analysis:**
 The simulation confirmed that the digital filter behaves correctly and effectively filters the input signal. I documented my observations and compared them with theoretical expectations for an FIR filter.
+
+**OUTPUT**
+<img width="1366" height="709" alt="Image" src="https://github.com/user-attachments/assets/cd36330a-3a8a-467d-af03-e49931adee2a" />
